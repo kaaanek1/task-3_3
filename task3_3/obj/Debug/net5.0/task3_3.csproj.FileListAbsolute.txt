@@ -1,0 +1,4 @@
+C:\Users\Asus PC\Documents\Programming\VSCode_C#\task3_3\obj\Debug\net5.0\task3_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus PC\Documents\Programming\VSCode_C#\task3_3\obj\Debug\net5.0\task3_3.AssemblyInfoInputs.cache
+C:\Users\Asus PC\Documents\Programming\VSCode_C#\task3_3\obj\Debug\net5.0\task3_3.AssemblyInfo.cs
+C:\Users\Asus PC\Documents\Programming\VSCode_C#\task3_3\obj\Debug\net5.0\task3_3.csproj.CoreCompileInputs.cache
